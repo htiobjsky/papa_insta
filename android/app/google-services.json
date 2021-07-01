@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49361163453",
+    "project_id": "bobo-v1",
+    "storage_bucket": "bobo-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49361163453:android:3551b09cd45199e7c353d4",
+        "android_client_info": {
+          "package_name": "com.example.bobotagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49361163453-l8ntia5pnhcvdn21k8t8uha9sotiaqm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv6yle9c5MMaviBj4RnlCdDs5V9mqlvfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49361163453-l8ntia5pnhcvdn21k8t8uha9sotiaqm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
